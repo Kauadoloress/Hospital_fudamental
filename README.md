@@ -38,6 +38,8 @@ O sistema deve cumprir os seguintes requisitos:
 ### Conclusão
 Este sistema de controle de consultas fornecerá uma solução eficaz e centralizada para gerenciar as informações da área clínica do hospital, melhorando a organização e acessibilidade dos dados, e substituindo métodos manuais e dispersos por um sistema informatizado e eficiente.
 
+---- 
+
 # Part 2
 
 ## Visão Geral
@@ -45,7 +47,7 @@ Esta segunda parte do projeto integra o sistema de controle de internações ao 
 
 ![hospital_fudamental2](https://github.com/Kauadoloress/Hospital_fudamental/assets/108621029/c271d54b-9dd7-40c0-bd80-a719515da1ff)
 
-##Conclusão
+## Conclusão
 
 A integração dos sistemas de consultas e internações cria uma solução robusta e completa para o gerenciamento hospitalar. Este sistema permite um controle eficiente e centralizado de todas as informações relevantes, desde consultas ambulatoriais até internações prolongadas, incluindo todos os profissionais envolvidos no atendimento aos pacientes.
 
